@@ -1,0 +1,14 @@
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\dto\UserDTO.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\config\SecurityConfig.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\controller\AuthController.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\repository\UserRepository.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\service\AppUserDetailsService.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\dto\LoginRequest.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\dto\LoginResponse.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\security\JwtAuthenticationFilter.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\entity\User.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\dto\RegisterRequest.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\service\AuthService.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\controller\UserController.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\AuthServiceApplication.java
+C:\Users\L13Y12W37.LABHCI\Desktop\IT342_G3_Sarraga_Lab1\IT342_G5_Sarraga_Lab1\backend\src\main\java\com\auth\security\JwtTokenProvider.java

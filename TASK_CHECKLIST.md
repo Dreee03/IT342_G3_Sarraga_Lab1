@@ -1,3 +1,15 @@
+# Task Checklist - Lab 2
+
+## DONE
+- Update `application.properties` (see commit)
+- Created DB init script `backend/db/init-auth-db.sql`
+
+## IN-PROGRESS
+- Implement backend and web skeleton (this commit)
+
+## TODO
+- Run backend and verify DB connection
+- Add screenshots to `/docs` and update FRS PDF
 # Task Checklist - Lab 2: User Registration and Authentication
 
 ## DONE
@@ -19,10 +31,10 @@
 - [ ] Create AuthService with BCrypt password encryption
 - [ ] Create UserService for CRUD operations
 - [ ] Create AuthController with:
-  - [ ] POST /api/auth/register endpoint
-  - [ ] POST /api/auth/login endpoint
+- [ ] POST /api/auth/register endpoint
+- [ ] POST /api/auth/login endpoint
 - [ ] Create UserController with:
-  - [ ] GET /api/user/me endpoint (protected)
+- [ ] GET /api/user/me endpoint (protected)
 - [ ] Configure MySQL database connection (application.properties)
 - [ ] Implement JWT authentication middleware
 - [ ] Create LoginRequest and RegisterRequest DTOs
@@ -69,9 +81,9 @@
 - [ ] Verify all required files are present
 - [ ] Create GitHub repository link for submission
 - [ ] Submit in MS Teams with:
-  - [ ] GitHub repository link
-  - [ ] Updated FRS PDF
-  - [ ] Updated TASK_CHECKLIST.md
+- [ ] GitHub repository link
+- [ ] Updated FRS PDF
+- [ ] Updated TASK_CHECKLIST.md
 
 ---
 
