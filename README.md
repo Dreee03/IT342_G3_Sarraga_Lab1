@@ -1,1 +1,1 @@
-# IT342_G5_Sarraga_Lab1
+# IT342_G3_Sarraga_Lab1
